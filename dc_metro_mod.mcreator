@@ -1,0 +1,153 @@
+{
+  "mod_elements": [
+    {
+      "name": "LogoBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "logo_block"
+    },
+    {
+      "name": "DCMetroTab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dc_metro_tab"
+    },
+    {
+      "name": "Waffle1",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_1",
+      "path": "~/Station Roof/Waffle Design"
+    },
+    {
+      "name": "Waffle2",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_2",
+      "path": "~/Station Roof/Waffle Design"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabdc_metro_tab": "DC Metro",
+      "block.dc_metro_mod.waffle_1": "Waffle 1",
+      "block.dc_metro_mod.waffle_2": "Waffle 1",
+      "block.dc_metro_mod.logo_block": "Logo Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Station Roof",
+        "children": [
+          {
+            "name": "Waffle Design",
+            "children": []
+          },
+          {
+            "name": "Arch Design",
+            "children": []
+          },
+          {
+            "name": "Twin Design",
+            "children": []
+          },
+          {
+            "name": "Gull 1 Design",
+            "children": []
+          },
+          {
+            "name": "Gull 2 Design",
+            "children": []
+          },
+          {
+            "name": "General Peak Design",
+            "children": []
+          },
+          {
+            "name": "High Peak Design",
+            "children": []
+          },
+          {
+            "name": "Tysons Peak Design",
+            "children": []
+          },
+          {
+            "name": "Huntington Design",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Station Lighting",
+        "children": [
+          {
+            "name": "Generic Side Bulb",
+            "children": []
+          },
+          {
+            "name": "Generic Roof Bulb",
+            "children": []
+          },
+          {
+            "name": "Pillar Lights",
+            "children": []
+          },
+          {
+            "name": "Track Lighting",
+            "children": []
+          },
+          {
+            "name": "Tunnel Lighting",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Railway Tracks",
+        "children": []
+      },
+      {
+        "name": "Others",
+        "children": [
+          {
+            "name": "PID Pole",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "dc_metro_mod",
+    "modName": "DC Metro Mod",
+    "version": "DEV Release 1",
+    "description": "Create amazing re creations of the DC metro using  Minecraft!",
+    "author": "Scriptivity",
+    "websiteURL": "https://scriptivity.tk",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Scriptivity Dev",
+    "modElementsPackage": "net.mcreator.dcmetromod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

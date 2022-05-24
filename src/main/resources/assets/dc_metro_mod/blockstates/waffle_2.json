@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dc_metro_mod:block/waffle_2"
+    },
+    "facing=east": {
+      "model": "dc_metro_mod:block/waffle_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dc_metro_mod:block/waffle_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dc_metro_mod:block/waffle_2",
+      "y": 270
+    }
+  }
+}

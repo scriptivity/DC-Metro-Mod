@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dc_metro_mod:blocks/logo",
+    "up": "dc_metro_mod:blocks/stonecutter_bottom",
+    "north": "dc_metro_mod:blocks/logo",
+    "east": "dc_metro_mod:blocks/stonecutter_bottom",
+    "south": "dc_metro_mod:blocks/stonecutter_bottom",
+    "west": "dc_metro_mod:blocks/stonecutter_bottom",
+    "particle": "dc_metro_mod:blocks/logo"
+  }
+}
