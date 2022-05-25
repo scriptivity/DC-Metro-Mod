@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=north": {
       "model": "dc_metro_mod:block/grid_block"
+    },
+    "facing=east": {
+      "model": "dc_metro_mod:block/grid_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dc_metro_mod:block/grid_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dc_metro_mod:block/grid_block",
+      "y": 270
     }
   }
 }

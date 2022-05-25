@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "stonecutter_bottom",
+		"particle": "stonecutter_bottom"
+	},
+	"elements": [
+		{
+			"from": [-6, 9, 0],
+			"to": [26, 12, 16],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 1.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 1.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 1.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 8], "texture": "#0"}
+			}
+		}
+	]
+}

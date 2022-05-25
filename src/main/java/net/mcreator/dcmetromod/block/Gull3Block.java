@@ -26,25 +26,25 @@ import net.minecraft.block.HorizontalBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.dcmetromod.itemgroup.DCMetroTabItemGroup;
+import net.mcreator.dcmetromod.itemgroup.DCRoofItemGroup;
 import net.mcreator.dcmetromod.DcMetroModModElements;
 
 import java.util.List;
 import java.util.Collections;
 
 @DcMetroModModElements.ModElement.Tag
-public class GridBlockBlock extends DcMetroModModElements.ModElement {
-	@ObjectHolder("dc_metro_mod:grid_block")
+public class Gull3Block extends DcMetroModModElements.ModElement {
+	@ObjectHolder("dc_metro_mod:gull_3")
 	public static final Block block = null;
 
-	public GridBlockBlock(DcMetroModModElements instance) {
-		super(instance, 10);
+	public Gull3Block(DcMetroModModElements instance) {
+		super(instance, 16);
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(DCMetroTabItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(DCRoofItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 
 	@Override
@@ -57,10 +57,10 @@ public class GridBlockBlock extends DcMetroModModElements.ModElement {
 		public static final DirectionProperty FACING = HorizontalBlock.HORIZONTAL_FACING;
 
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.CLOTH).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).notSolid()
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).notSolid()
 					.setOpaque((bs, br, bp) -> false));
 			this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
-			setRegistryName("grid_block");
+			setRegistryName("gull_3");
 		}
 
 		@Override
