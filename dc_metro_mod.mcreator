@@ -69,15 +69,45 @@
       "locked_code": false,
       "registry_name": "waffle_5",
       "path": "~/Station Roof/Waffle Design"
+    },
+    {
+      "name": "Waffle6",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_6",
+      "path": "~/Station Roof/Waffle Design"
+    },
+    {
+      "name": "GridBlock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grid_block",
+      "path": "~/Others"
+    },
+    {
+      "name": "Waffle7",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_7",
+      "path": "~/Station Roof/Waffle Design"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.dc_metro_mod.waffle_7": "Waffle Roof 7",
       "itemGroup.tabdc_roof": "DC Roof",
       "block.dc_metro_mod.waffle_5": "Waffle Roof 5",
+      "block.dc_metro_mod.waffle_6": "Waffle Roof 6",
       "block.dc_metro_mod.waffle_3": "Waffle Roof 3",
+      "block.dc_metro_mod.grid_block": "Grid Block",
       "block.dc_metro_mod.waffle_4": "Waffle Roof 4",
       "itemGroup.tabdc_metro_tab": "DC Metro",
       "block.dc_metro_mod.waffle_1": "Waffle Roof 1",
@@ -189,5 +219,5 @@
     "modElementsPackage": "net.mcreator.dcmetromod",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100354000
+  "mcreatorVersion": 202200120510
 }

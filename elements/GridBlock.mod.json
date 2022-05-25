@@ -2,15 +2,15 @@
   "_fv": 28,
   "_type": "block",
   "definition": {
-    "texture": "stonecutter_bottom",
+    "texture": "logo",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "dc_roof_waffle_2:default",
-    "rotationMode": 1,
+    "customModelName": "grid_block:default",
+    "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "logo",
@@ -32,14 +32,14 @@
         "subtract": false
       }
     ],
-    "name": "Waffle Roof 2",
+    "name": "Grid Block",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:DCRoof"
+      "value": "CUSTOM:DCMetroTab"
     },
     "destroyTool": "Not specified",
     "customDrop": {
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "CLOTH"
     },
     "breakSound": {
       "value": ""

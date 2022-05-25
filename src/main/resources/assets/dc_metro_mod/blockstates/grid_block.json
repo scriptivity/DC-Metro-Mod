@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dc_metro_mod:block/grid_block"
+    }
+  }
+}
