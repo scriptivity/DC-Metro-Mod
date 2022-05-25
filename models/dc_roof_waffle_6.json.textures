@@ -2,9 +2,8 @@
   "mappings": {
     "default": {
       "map": {
-        "0": "stonecutter_bottom",
         "1": "marker_texture",
-        "2": "metal_roof_1_texture"
+        "2": "stonecutter_bottom"
       },
       "name": "default"
     }

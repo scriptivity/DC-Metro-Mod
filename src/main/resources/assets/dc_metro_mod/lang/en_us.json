@@ -1,7 +1,10 @@
 {
+  "block.dc_metro_mod.waffle_7": "Waffle Roof 7",
   "itemGroup.tabdc_roof": "DC Roof",
   "block.dc_metro_mod.waffle_5": "Waffle Roof 5",
+  "block.dc_metro_mod.waffle_6": "Waffle Roof 6",
   "block.dc_metro_mod.waffle_3": "Waffle Roof 3",
+  "block.dc_metro_mod.grid_block": "Grid Block",
   "block.dc_metro_mod.waffle_4": "Waffle Roof 4",
   "itemGroup.tabdc_metro_tab": "DC Metro",
   "block.dc_metro_mod.waffle_1": "Waffle Roof 1",

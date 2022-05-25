@@ -1,0 +1,8 @@
+{
+  "parent": "dc_metro_mod:custom/grid_block",
+  "textures": {
+    "all": "dc_metro_mod:blocks/logo",
+    "particle": "dc_metro_mod:blocks/logo",
+    "0": "dc_metro_mod:blocks/grid_block_texture"
+  }
+}

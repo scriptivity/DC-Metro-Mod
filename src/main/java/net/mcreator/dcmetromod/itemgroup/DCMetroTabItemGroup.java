@@ -13,7 +13,7 @@ import net.mcreator.dcmetromod.DcMetroModModElements;
 @DcMetroModModElements.ModElement.Tag
 public class DCMetroTabItemGroup extends DcMetroModModElements.ModElement {
 	public DCMetroTabItemGroup(DcMetroModModElements instance) {
-		super(instance, 2);
+		super(instance, 5);
 	}
 
 	@Override
