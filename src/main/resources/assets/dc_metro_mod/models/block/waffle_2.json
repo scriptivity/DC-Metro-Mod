@@ -3,6 +3,7 @@
   "textures": {
     "all": "dc_metro_mod:blocks/stonecutter_bottom",
     "particle": "dc_metro_mod:blocks/stonecutter_bottom",
-    "0": "dc_metro_mod:blocks/stonecutter_bottom"
+    "0": "dc_metro_mod:blocks/stonecutter_bottom",
+    "1": "dc_metro_mod:blocks/marker_texture"
   }
 }

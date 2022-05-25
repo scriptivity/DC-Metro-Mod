@@ -33,12 +33,12 @@ import java.util.List;
 import java.util.Collections;
 
 @DcMetroModModElements.ModElement.Tag
-public class Waffle1Block extends DcMetroModModElements.ModElement {
-	@ObjectHolder("dc_metro_mod:waffle_1")
+public class Waffle4Block extends DcMetroModModElements.ModElement {
+	@ObjectHolder("dc_metro_mod:waffle_4")
 	public static final Block block = null;
 
-	public Waffle1Block(DcMetroModModElements instance) {
-		super(instance, 1);
+	public Waffle4Block(DcMetroModModElements instance) {
+		super(instance, 7);
 	}
 
 	@Override
@@ -60,7 +60,7 @@ public class Waffle1Block extends DcMetroModModElements.ModElement {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).notSolid()
 					.setOpaque((bs, br, bp) -> false));
 			this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
-			setRegistryName("waffle_1");
+			setRegistryName("waffle_4");
 		}
 
 		@Override

@@ -2,7 +2,8 @@
   "mappings": {
     "default": {
       "map": {
-        "0": "stonecutter_bottom"
+        "0": "stonecutter_bottom",
+        "1": "marker_texture"
       },
       "name": "default"
     }

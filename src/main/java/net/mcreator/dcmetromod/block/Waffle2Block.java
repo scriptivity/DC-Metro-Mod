@@ -26,7 +26,7 @@ import net.minecraft.block.HorizontalBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.dcmetromod.itemgroup.DCMetroTabItemGroup;
+import net.mcreator.dcmetromod.itemgroup.DCRoofItemGroup;
 import net.mcreator.dcmetromod.DcMetroModModElements;
 
 import java.util.List;
@@ -38,13 +38,13 @@ public class Waffle2Block extends DcMetroModModElements.ModElement {
 	public static final Block block = null;
 
 	public Waffle2Block(DcMetroModModElements instance) {
-		super(instance, 4);
+		super(instance, 2);
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(DCMetroTabItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(DCRoofItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 
 	@Override

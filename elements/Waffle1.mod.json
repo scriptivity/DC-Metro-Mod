@@ -32,14 +32,14 @@
         "subtract": false
       }
     ],
-    "name": "Waffle 1",
+    "name": "Waffle Roof 1",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:DCMetroTab"
+      "value": "CUSTOM:DCRoof"
     },
     "destroyTool": "Not specified",
     "customDrop": {
