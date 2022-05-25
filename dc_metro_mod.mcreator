@@ -3,7 +3,7 @@
     {
       "name": "LogoBlock",
       "type": "block",
-      "sortid": 1,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "logo_block"
@@ -11,7 +11,7 @@
     {
       "name": "DCMetroTab",
       "type": "tab",
-      "sortid": 2,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dc_metro_tab"
@@ -19,7 +19,7 @@
     {
       "name": "Waffle1",
       "type": "block",
-      "sortid": 3,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "waffle_1",
@@ -28,10 +28,46 @@
     {
       "name": "Waffle2",
       "type": "block",
-      "sortid": 4,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "waffle_2",
+      "path": "~/Station Roof/Waffle Design"
+    },
+    {
+      "name": "Waffle3",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_3",
+      "path": "~/Station Roof/Waffle Design"
+    },
+    {
+      "name": "DCRoof",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dc_roof",
+      "path": "~/Station Roof/Waffle Design"
+    },
+    {
+      "name": "Waffle4",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_4",
+      "path": "~/Station Roof/Waffle Design"
+    },
+    {
+      "name": "Waffle5",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffle_5",
       "path": "~/Station Roof/Waffle Design"
     }
   ],
@@ -39,9 +75,13 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "itemGroup.tabdc_roof": "DC Roof",
+      "block.dc_metro_mod.waffle_5": "Waffle Roof 5",
+      "block.dc_metro_mod.waffle_3": "Waffle Roof 3",
+      "block.dc_metro_mod.waffle_4": "Waffle Roof 4",
       "itemGroup.tabdc_metro_tab": "DC Metro",
-      "block.dc_metro_mod.waffle_1": "Waffle 1",
-      "block.dc_metro_mod.waffle_2": "Waffle 1",
+      "block.dc_metro_mod.waffle_1": "Waffle Roof 1",
+      "block.dc_metro_mod.waffle_2": "Waffle Roof 2",
       "block.dc_metro_mod.logo_block": "Logo Block"
     }
   },

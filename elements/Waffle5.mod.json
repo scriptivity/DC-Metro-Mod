@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "dc_roof_waffle_2:default",
+    "customModelName": "dc_roof_waffle_5:default",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Waffle Roof 2",
+    "name": "Waffle Roof 5",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

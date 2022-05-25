@@ -1,5 +1,5 @@
 {
-  "parent": "dc_metro_mod:custom/dc_roof_waffle_1",
+  "parent": "dc_metro_mod:custom/dc_roof_waffle_3",
   "textures": {
     "all": "dc_metro_mod:blocks/stonecutter_bottom",
     "particle": "dc_metro_mod:blocks/stonecutter_bottom",
