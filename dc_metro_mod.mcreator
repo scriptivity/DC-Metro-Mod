@@ -96,12 +96,52 @@
       "locked_code": false,
       "registry_name": "waffle_7",
       "path": "~/Station Roof/Waffle Design"
+    },
+    {
+      "name": "Gull1",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gull_1",
+      "path": "~/Station Roof/Gull 1 Design"
+    },
+    {
+      "name": "GullPole",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gull_pole",
+      "path": "~/Station Roof/Gull 1 Design"
+    },
+    {
+      "name": "Gull2Supports",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gull_2_supports",
+      "path": "~/Station Roof/Gull 1 Design"
+    },
+    {
+      "name": "Gull3",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gull_3",
+      "path": "~/Station Roof/Gull 1 Design"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.dc_metro_mod.gull_2_supports": "Station Roof Gull 2 (Supports)",
+      "itemGroup.tabdc_metro_tab": "DC Metro",
+      "block.dc_metro_mod.gull_1": "Station Roof Gull 1",
+      "block.dc_metro_mod.gull_3": "Station Roof Gull 3",
       "block.dc_metro_mod.waffle_7": "Waffle Roof 7",
       "itemGroup.tabdc_roof": "DC Roof",
       "block.dc_metro_mod.waffle_5": "Waffle Roof 5",
@@ -109,9 +149,9 @@
       "block.dc_metro_mod.waffle_3": "Waffle Roof 3",
       "block.dc_metro_mod.grid_block": "Grid Block",
       "block.dc_metro_mod.waffle_4": "Waffle Roof 4",
-      "itemGroup.tabdc_metro_tab": "DC Metro",
       "block.dc_metro_mod.waffle_1": "Waffle Roof 1",
       "block.dc_metro_mod.waffle_2": "Waffle Roof 2",
+      "block.dc_metro_mod.gull_pole": "Station Roof Gull Supports",
       "block.dc_metro_mod.logo_block": "Logo Block"
     }
   },

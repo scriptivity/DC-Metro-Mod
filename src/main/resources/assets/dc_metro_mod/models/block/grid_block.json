@@ -1,8 +1,12 @@
 {
-  "parent": "dc_metro_mod:custom/grid_block",
+  "parent": "block/cube",
   "textures": {
-    "all": "dc_metro_mod:blocks/logo",
-    "particle": "dc_metro_mod:blocks/logo",
-    "0": "dc_metro_mod:blocks/grid_block_texture"
+    "down": "dc_metro_mod:blocks/logo",
+    "up": "dc_metro_mod:blocks/logo",
+    "north": "dc_metro_mod:blocks/logo",
+    "east": "dc_metro_mod:blocks/logo",
+    "south": "dc_metro_mod:blocks/logo",
+    "west": "dc_metro_mod:blocks/logo",
+    "particle": "dc_metro_mod:blocks/logo"
   }
 }
