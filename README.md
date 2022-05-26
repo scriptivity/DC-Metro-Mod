@@ -24,9 +24,8 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Built With](#built-with)
+* [Disclaimer](#Disclaimer)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
@@ -39,64 +38,26 @@
 
 ![Screen Shot](images/screenshot.png)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The DC metro is one of the best metro systems in the US, with a simple map, clean trains and stations, ever evolving lines and more.  On my trip to Washington DC in 2019, just before COVID-19 caused chaios in the world, I had the amazing opportunity to experience riding the metro for myself.  The stations are lively and full of clean and simple yet a bit outdated architecture.  Each station has its own little touch, with the main material being concrete throughout the system.  This project aims to let any user use the mod and create their own amazing versions or re-creations of the DC metro inside of Minecraft, with the help of Jonafanho's MTR mod.  More information about the mod can be see on the curseforge, GitHub, or Discord.
 
-Here's why:
+## Disclaimer
 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+**This mod is best used with the WMATA 7000 series addon pack, this can be found in the Discord under the extra content channel.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-## Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+You may use any train you would like, but the WMATA 7000 series is an addon only, and is not part of the core mod!**
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Please refer to the [Wiki](https://github.com/scriptivity/DC-Metro-Mod/wiki) for guides on the mod.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-* npm
-
-```sh
-npm install npm@latest -g
-```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-
-2. Clone the repo
-
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-
-3. Install NPM packages
-
-```sh
-npm install
-```
-
-4. Enter your API in `config.js`
-
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+Please refer to the install instructions on the [Wiki](https://github.com/Scriptivity/DC-Metro-Mod/wiki)
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+* Please refer to the [Wiki](https://github.com/Scriptivity/DC-Metro-Mod/wiki) to learn how to get the best results from my mod!
 
 ## Roadmap
 
@@ -124,10 +85,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Scriptivity/
 
 ## Authors
 
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
+* **Scriptivity** - *Theatrical Lighting Technician and Designer* - [My Website](https://scriptivity.tk)
 
 ## Acknowledgements
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
+* [Jonathan Ho](https://github.com/jonafanho)
